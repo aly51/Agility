@@ -54,7 +54,8 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero-section {
-  background: url("https://t4.ftcdn.net/jpg/03/75/77/91/360_F_375779109_hQhQ0jrmPIXM44nvSk9rbXsjCsJCNbsv.jpg") no-repeat center center/cover;
+  background: url("https://t4.ftcdn.net/jpg/03/75/77/91/360_F_375779109_hQhQ0jrmPIXM44nvSk9rbXsjCsJCNbsv.jpg")
+    no-repeat center center/cover;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -92,7 +93,7 @@ nav ul li a:hover {
   display: inline-block;
   margin-top: 20px;
   padding: 10px 20px;
-  background-image: linear-gradient(to right,#fdfc47,#24fe41);
+  background-image: linear-gradient(to right, #fdfc47, #24fe41);
   color: white;
   border: none;
   border-radius: 5px;
@@ -148,7 +149,7 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
-.mission-vision p, 
+.mission-vision p,
 .mission-vision li {
   font-size: 1.2em;
 }
@@ -230,7 +231,7 @@ nav ul li a:hover {
 }
 
 .submit-button:hover {
-  background-image: linear-gradient(to right,#fdfc47,#24fe41);
+  background-image: linear-gradient(to right, #fdfc47, #24fe41);
 }
 
 .contact-info {
@@ -268,5 +269,5 @@ footer p {
   }
   .lis {
     font-size: 12px;
-  }  
+  }
 }
