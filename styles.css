@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background: #182848;
+  background-image: linear-gradient(to right, #d4e157, #388e3c);
   color: #fff;
   padding: 20px 0;
 }
@@ -92,7 +92,7 @@ nav ul li a:hover {
   display: inline-block;
   margin-top: 20px;
   padding: 10px 20px;
-  background: #4b6cb7;
+  background-image: linear-gradient(to right,#fdfc47,#24fe41);
   color: white;
   border: none;
   border-radius: 5px;
@@ -230,7 +230,7 @@ nav ul li a:hover {
 }
 
 .submit-button:hover {
-  background: #182848;
+  background-image: linear-gradient(to right,#fdfc47,#24fe41);
 }
 
 .contact-info {
@@ -268,6 +268,5 @@ footer p {
   }
   .lis {
     font-size: 12px;
-  }
-  
+  }  
 }
